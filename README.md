@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=260&color=0:800000,70:ee99ac,100:ffffff&text=Dua%20Kaleem&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20%26%20Android%20Developer&descAlignY=58&descSize=20](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:800000,70:ee99ac,100:ffffff&text=Shiza%20Arshad&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20Clean%2C%20Scalable%20Web%20Apps&descAlignY=58&descSize=20)" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:800000,70:ee99ac,100:ffffff&text=Dua%20Kaleem&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGEENERING%20%7C%20Building%20Clean%2C%20Scalable%20Web%20Apps&descAlignY=58&descSize=20" />
 </p>
 
 <h1 align="center">Hey, I'm Dua Kaleem! 👋</h1>
